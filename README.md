@@ -25,7 +25,7 @@ Hi, I'm Nurhalimah, I'm studying Full-Stack Software Engineering batch Paris at 
    
 
 
-<img alt="Logo" width="200px" align="left" src="NH-unscreen.gif" ><br>
+<img alt="Logo" width="200px" align="left" src="NH-unscreen.gif" >
 
 <img height="90px" color="" alt="Thanks for visiting" width="800px" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
