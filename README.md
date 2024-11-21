@@ -19,7 +19,7 @@
 <br><br>
 <h1 align="left">Hajimemashite (はじめまして)</h1>
 
-Hi, I'm Nurhalimah, I'm studying Full-Stack Software Engineering batch Paris at Revou. I hope after studying I can become IT  (❁´◡`❁).
+Hi, I'm Nurhalimah, I'm studying Full-Stack Software Engineering batch Paris at Revou. I hope after studying I can become IT <br> (❁´◡`❁).
 
 <br>
    
