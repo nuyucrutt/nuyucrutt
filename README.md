@@ -16,15 +16,11 @@
 ---
 
 
-
-<h3 align="center">🎮 Play a quick game!</h3>
+<h3 align="center">🎮 Let's Play!</h3>
 
 <p align="center">
-  <iframe height="400" width="600" src="https://codepen.io/ste-vg/embed/OJbLJrB?default-tab=result" frameborder="no" loading="lazy" allowfullscreen>
-  </iframe>
+  <img src="https://i.gifer.com/1AMc.gif" width="300" alt="pixel game animation"/>
 </p>
-
-
 
 ---
 
