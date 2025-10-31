@@ -55,5 +55,5 @@ Feel free to reach out to me through the following platforms:
 
 <img alt="Logo" width="200px" align="left" src="NH-unscreen.gif" >
 
-<img height="90px" color="" alt="Thanks for visiting" width="800px" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<img height="90px" color="#B7A3E3" alt="Thanks for visiting" width="800px" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
