@@ -39,11 +39,14 @@ I'm studying Full-Stack Software Engineering batch Paris at Revou. I hope after 
 
 ## Projects
 ## 🚀 Group Final Project - Semesta Kata
-
 This project was created as part of the **Software Engineering Program at RevoU**.  
-Explore the project here: [🔗 View ](https://drive.google.com/file/d/15QxDIf0uOh-V-vT0suLzw5R73Y_vd0vO/view?usp=sharing))
-- RevoBank, Revou
-- nhartikel (Project Milestone 1), Revou
+Explore the project here: [🔗 View ](https://drive.google.com/file/d/15QxDIf0uOh-V-vT0suLzw5R73Y_vd0vO/view?usp=sharing)
+## 🚀 Final Project: RevoBank
+Part of the RevoU Software Engineering program at RevoU.
+See the full project here:🔗 [View](https://github.com/nuyucrutt/RevoBank)
+## 🚀 Project Milestone 1: nhartikel
+The first project as **the first step to studying at RevoU**
+See the full project here:🔗 [View](https://nhartikel.my.id/)
 
 ## Contact
 Feel free to reach out to me through the following platforms:
