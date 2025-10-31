@@ -7,7 +7,10 @@
 <!-- Animated Header -->
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&duration=3000&pause=500&color=9C6ADE&center=true&vCenter=true&width=800&lines=Hello+I'm+Nuy!;font=color=8D750&vCenterWelcome+to+my+GitHub!;)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&duration=3000&pause=500&color=9C6ADE&center=false&vCenter=true&lines=Hello+I'm+Nuy!+" alt="Hello I'm Nuy!"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&duration=3000&pause=500&color=8D750&vCenter=false&vCenter=true&lines=Welcome+to+my+GitHub!" alt="Welcome to my GitHub!"/>
+</p>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=500&color=820790&center=true&vCenter=true&width=800&lines=Junior+Full-Stack+Software+Engineer💻;Frontend+💻)
 
