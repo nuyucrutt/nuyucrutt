@@ -4,9 +4,7 @@
 
 ![Hello!](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=500&color=8D750&vCenter=true&random=false&width=700&height=80&lines=Hello+I'm+Nuy!)
 ![Welcome](https://readme-typing-svg.demolab.com?font=Fira+Code&size=80&pause=500&color=820790&vCenter=true&random=false&width=350&height=80&lines=Welcome)
-
-
-
+![Title!](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=500&color=8D750&vCenter=true&random=false&width=700&height=80&lines=Junior+Full-Stack+Software+Engineering!)
 
 
 
@@ -49,7 +47,6 @@ See the full project here:🔗 [View](https://nhartikel.my.id/)
 
 ## Contact
 Feel free to reach out to me through the following platforms:
-
 | Platform                                                                     | Username                                                |
 |------------------------------------------------------------------------------|---------------------------------------------------------|
 | ![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white) | [nuyha1221@gmail.com](mailto:nuyha1221@gmail.com) |
