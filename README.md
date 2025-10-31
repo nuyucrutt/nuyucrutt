@@ -37,6 +37,8 @@ I'm studying Full-Stack Software Engineering batch Paris at Revou. I hope after 
 - Full-Stack Software Engineering, Revou (Batch Paris)
 - Universitas Nusa Mandiri, Bachelor's Degree in Computer Science]
 
+>>>>>>> 3023e9ec4a11e0a08d05725b46373756a20ce4ea
+=======
 ## Projects
 - Semesta Kata (Group Final Project), Revou
 - RevoBank, Revou
@@ -50,6 +52,8 @@ Feel free to reach out to me through the following platforms:
 | ![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white) | [nuyha1221@gmail.com](mailto:nuyha1221@gmail.com) |
 | ![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white) | [nuyucrutt](https://www.instagram.com/nuyucrutt/)      |
 | ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)  | [Nurhalimah .](https://www.linkedin.com/in/nurhalimah-9304521b0/)        |
+=======
+>>>>>>> 3023e9ec4a11e0a08d05725b46373756a20ce4ea
 
 <img alt="Logo" width="200px" align="left" src="NH-unscreen.gif" >
 
