@@ -114,6 +114,37 @@ I love creating clean, functional, and user-friendly web applications.
   👉 <a href="https://cssgridgarden.com/">Play Now</a>
 </p>
 
+<!--
+Mini Snake Animation (CSS-only) for README.md
+Use this in your README.md directly:
+
+```html
+<p align="center">
+  <svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+    <rect width="200" height="200" rx="10" fill="#0f172a"/>
+    <circle id="apple" cx="140" cy="60" r="6" fill="#ff5c5c">
+      <animate attributeName="cx" values="140;40;100;140" dur="6s" repeatCount="indefinite" />
+      <animate attributeName="cy" values="60;100;140;60" dur="6s" repeatCount="indefinite" />
+    </circle>
+    <rect id="snake-head" x="40" y="40" width="10" height="10" rx="2" fill="#22c55e">
+      <animateMotion dur="6s" repeatCount="indefinite" path="M40,40 L140,40 L140,140 L40,140 Z" />
+    </rect>
+    <rect id="snake-body" x="30" y="40" width="10" height="10" rx="2" fill="#16a34a">
+      <animateMotion dur="6s" repeatCount="indefinite" begin="0.1s" path="M40,40 L140,40 L140,140 L40,140 Z" />
+    </rect>
+    <rect id="snake-body2" x="20" y="40" width="10" height="10" rx="2" fill="#15803d">
+      <animateMotion dur="6s" repeatCount="indefinite" begin="0.2s" path="M40,40 L140,40 L140,140 L40,140 Z" />
+    </rect>
+  </svg>
+  <br>
+  <b><span style="color:#7efc9f">Mini Snake Animation</span></b>
+</p>
+```
+
+This version works **directly in README.md** (no JavaScript needed). It uses pure SVG + CSS animation, safe and lightweight for GitHub rendering.
+-->
+
+
 <p align="center">
   
   <br>
