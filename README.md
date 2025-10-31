@@ -14,6 +14,9 @@
 </div>
 ---
 
+
+---
+
 <h3 align="center">🎮 Play CSS Grid Garden 🌱</h3>
 
 <p align="center">
@@ -27,9 +30,7 @@
   Solve puzzles to grow your virtual garden while mastering CSS layout skills.<br>
   👉 <a href="https://cssgridgarden.com/">Play Now</a>
 </p>
-
 ---
-
 
 <h1 align="center">✨ Hajimemashite (はじめまして) ✨</h1>
 
