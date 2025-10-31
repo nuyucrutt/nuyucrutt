@@ -108,13 +108,6 @@ I love creating clean, functional, and user-friendly web applications.
 ---
 
 <h3 align="center">🎮 Play CSS Grid Garden 🌱</h3>
-
-<p align="center">
-  <a href="https://cssgridgarden.com/" target="_blank">
-    <img src="https://cssgridgarden.com/images/share-thumbnail.png" width="600" alt="CSS Grid Garden Game"/>
-  </a>
-</p>
-
 <p align="center">
   <b>Learn CSS Grid the fun way! 🌾</b><br>
   Solve puzzles to grow your virtual garden while mastering CSS layout skills.<br>
