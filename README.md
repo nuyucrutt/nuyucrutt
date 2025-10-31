@@ -12,24 +12,8 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=500&color=820790&center=true&vCenter=true&width=800&lines=Junior+Full-Stack+Software+Engineer💻;Frontend+💻)
 
 </div>
----
 
 
----
-
-<h3 align="center">🎮 Play CSS Grid Garden 🌱</h3>
-
-<p align="center">
-  <a href="https://cssgridgarden.com/" target="_blank">
-    <img src="https://cssgridgarden.com/images/share-thumbnail.png" width="600" alt="CSS Grid Garden Game"/>
-  </a>
-</p>
-
-<p align="center">
-  <b>Learn CSS Grid the fun way! 🌾</b><br>
-  Solve puzzles to grow your virtual garden while mastering CSS layout skills.<br>
-  👉 <a href="https://cssgridgarden.com/">Play Now</a>
-</p>
 ---
 
 <h1 align="center">✨ Hajimemashite (はじめまして) ✨</h1>
@@ -123,7 +107,19 @@ I love creating clean, functional, and user-friendly web applications.
 
 ---
 
+<h3 align="center">🎮 Play CSS Grid Garden 🌱</h3>
 
+<p align="center">
+  <a href="https://cssgridgarden.com/" target="_blank">
+    <img src="https://cssgridgarden.com/images/share-thumbnail.png" width="600" alt="CSS Grid Garden Game"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>Learn CSS Grid the fun way! 🌾</b><br>
+  Solve puzzles to grow your virtual garden while mastering CSS layout skills.<br>
+  👉 <a href="https://cssgridgarden.com/">Play Now</a>
+</p>
 
 <p align="center">
   
