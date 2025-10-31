@@ -108,6 +108,7 @@ I love creating clean, functional, and user-friendly web applications.
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nuyucrutt&theme=tokyonight&hide_border=true" alt="GitHub Streak" /><br>
+  <img src="https://streak-stats.demolab.com?user=nuyucrutt&theme=tokyonight&hide_border=true" alt="GitHub Streak" style="margin-bottom: 10px;" />
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuyucrutt&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
