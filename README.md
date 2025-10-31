@@ -15,11 +15,15 @@
 
 ---
 
-<h3 align="center">🎲 Try your luck!</h3>
+
+
+<h3 align="center">🎮 Play a quick game!</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F39C12&center=true&vCenter=true&width=600&lines=Rolling+Dice...;You+got+🎯+6!;Try+again+next+visit!;">
+  <iframe height="400" width="600" src="https://codepen.io/ste-vg/embed/OJbLJrB?default-tab=result" frameborder="no" loading="lazy" allowfullscreen>
+  </iframe>
 </p>
+
 
 
 ---
