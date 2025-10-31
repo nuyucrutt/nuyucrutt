@@ -4,7 +4,7 @@
 
 ![Hello!](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=500&color=8D750&vCenter=true&random=false&width=700&height=80&lines=Hello+I'm+Nuy!)
 ![Welcome](https://readme-typing-svg.demolab.com?font=Fira+Code&size=80&pause=500&color=820790&vCenter=true&random=false&width=350&height=80&lines=Welcome)
-![Title!](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=500&color=8D750&vCenter=true&random=false&width=700&height=80&lines=Junior+Full-Stack+Software+Engineering!)
+![Title!](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=500&color=8D750&vCenter=true&random=false&width=700&height=80&lines=Junior+Full-Stack+Software+Engineering!)
 
 
 
