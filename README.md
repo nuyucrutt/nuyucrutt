@@ -22,8 +22,30 @@
 Hi, I'm Nurhalimah, I'm studying Full-Stack Software Engineering batch Paris at Revou. I hope after studying I can become IT <br> (❁´◡`❁).
 
 <br>
-   
 
+## About Me
+I am a passionate learner in the field of software engineering, currently pursuing full-stack development. I enjoy building applications and solving problems through code.
+
+## Hard Skills
+- Programming Languages: JavaScript, Python, HTML, CSS
+- Frameworks: React, Node.js, Express
+- Tools: Git, VS Code, Docker
+- Databases: MongoDB, SQL
+
+## Soft Skills
+- Communication
+- Teamwork
+- Problem-Solving
+- Adaptability
+
+## Education
+- Full-Stack Software Engineering, Revou (Batch Paris)
+- [Add your previous education here, e.g., Bachelor's Degree in Computer Science]
+
+## Projects
+- [Project 1: Description of your first project]
+- [Project 2: Description of your second project]
+- [Add more projects as needed]
 
 <img alt="Logo" width="200px" align="left" src="NH-unscreen.gif" >
 
