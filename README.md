@@ -107,7 +107,7 @@ I love creating clean, functional, and user-friendly web applications.
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=nuyucrutt)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=nuyucrutt&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
 
 <p align="center">
   
