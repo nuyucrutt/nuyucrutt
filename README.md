@@ -16,7 +16,6 @@
 <h1 align="left">Hajimemashite (はじめまして)</h1>
 
 Hi, I'm Nurhalimah,  <br> (❁´◡`❁).
-
 <br>
 
 ## About Me
@@ -53,7 +52,7 @@ Feel free to reach out to me through the following platforms:
 | ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)  | [Nurhalimah .](https://www.linkedin.com/in/nurhalimah-9304521b0/)        |
 
 
-<img alt="Logo" width="200px" align="left" src="NH-unscreen.gif" >
+<img alt="Logo" width="200px" align="left" src="NH-unscreen.gif" ><br />
 
 <img height="90px" color="B7A3E3" alt="Thanks for visiting" width="800px" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" /> <br />
 
