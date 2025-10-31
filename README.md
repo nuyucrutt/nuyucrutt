@@ -19,31 +19,43 @@ Hi, I'm Nurhalimah,  <br> (❁´◡`❁).
 ## About Me
 I'm studying Full-Stack Software Engineering batch Paris at Revou. I hope after studying I can become IT and I am a passionate learner in the field of software engineering, currently pursuing full-stack development. I enjoy building applications and solving problems through code.
 
-### 💻 Programming Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
+## 🧠 Tech & Skills Overview
 
-### 🛠️ Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
-
-### 🗄️ Databases
-<p align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-
-## Soft Skills
-- Teamwork & Ability to Work Independently
-- Time Management
-- Adaptability
-- Creativity
+<table>
+  <tr>
+    <td>
+      <h4>💻 Programming Languages</h4>
+      <p align="left">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      </p>
+    </td>
+    <td>
+      <h4>🛠️ Tools</h4>
+      <p align="left">
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+        <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+      </p>
+    </td>
+    <td>
+      <h4>🗄️ Databases</h4>
+      <p align="left">
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+      </p>
+    </td>
+    <td>
+      <h4>🤝 Soft Skills</h4>
+      <ul>
+        <li>Teamwork & Ability to Work Independently</li>
+        <li>Time Management</li>
+        <li>Adaptability</li>
+        <li>Creativity</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ## Education
 - Full-Stack Software Engineering, Revou (Batch Paris)
