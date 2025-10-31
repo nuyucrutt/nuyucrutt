@@ -20,7 +20,7 @@
 
 <p align="center">
 Hi, I'm <b>Nurhalimah</b> — (❁´◡`❁)<br>
-A passionate learner exploring the world of software engineering, currently studying <b>Full-Stack Software Engineering</b> at <b>RevoU (Batch Paris)</b>. <br>
+A passionate learner exploring the world of software engineering, currently studying <b>Full-Stack Software Engineering</b> at <b>RevoU (Batch Paris)</b>.
 I love creating clean, functional, and user-friendly web applications.
 </p>
 
