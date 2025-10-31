@@ -1,29 +1,29 @@
-<div align="center" >
+<div align="center">
   <img alt="computer" width="1000px" src="Untitled design.gif">
-</div> <br><br>
-
-![Hello!](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=500&color=8D750&vCenter=true&random=false&width=700&height=80&lines=Hello+I'm+Nuy!)
-![Welcome](https://readme-typing-svg.demolab.com?font=Fira+Code&size=80&pause=500&color=820790&vCenter=true&random=false&width=350&height=80&lines=Welcome)
-![Title!](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=500&color=8D750&vCenter=true&random=false&width=700&height=80&lines=Junior+Full-Stack+Software+Engineering!)
-
-
-
-
+</div>
 
 <br><br>
-<h1 align="left">Hajimemashite (はじめまして)</h1>
 
-Hi, I'm Nurhalimah,  <br> (❁´◡`❁).
-<br>
+<!-- Animated Header -->
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&duration=3000&pause=500&color=9C6ADE&center=true&vCenter=true&width=800&lines=Hello+I'm+Nuy!;Welcome+to+my+GitHub!;Junior+Full-Stack+Software+Engineer💻)
 
-## About Me
-I'm studying Full-Stack Software Engineering batch Paris at Revou. I hope after studying I can become IT and I am a passionate learner in the field of software engineering, currently pursuing full-stack development. I enjoy building applications and solving problems through code.
+---
+
+<h1 align="center">✨ Hajimemashite (はじめまして) ✨</h1>
+
+<p align="center">
+Hi, I'm <b>Nurhalimah</b> — (❁´◡`❁)<br>
+A passionate learner exploring the world of software engineering, currently studying <b>Full-Stack Software Engineering</b> at <b>RevoU (Batch Paris)</b>. <br>
+I love creating clean, functional, and user-friendly web applications.
+</p>
+
+---
 
 ## 🧠 Tech & Skills Overview
 
 <table>
   <tr>
-    <td>
+    <td valign="top">
       <h4>💻 Programming Languages</h4>
       <p align="left">
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -32,23 +32,23 @@ I'm studying Full-Stack Software Engineering batch Paris at Revou. I hope after 
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
       </p>
     </td>
-    <td>
+    <td valign="top">
       <h4>🛠️ Tools</h4>
       <p align="left">
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
         <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
       </p>
     </td>
-    <td>
+    <td valign="top">
       <h4>🗄️ Databases</h4>
       <p align="left">
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
       </p>
     </td>
-    <td>
+    <td valign="top">
       <h4>🤝 Soft Skills</h4>
       <ul>
-        <li>Teamwork & Ability to Work Independently</li>
+        <li>Teamwork & Independence</li>
         <li>Time Management</li>
         <li>Adaptability</li>
         <li>Creativity</li>
@@ -57,31 +57,50 @@ I'm studying Full-Stack Software Engineering batch Paris at Revou. I hope after 
   </tr>
 </table>
 
-## Education
-- Full-Stack Software Engineering, Revou (Batch Paris)
-- Universitas Nusa Mandiri, Bachelor's Degree in Computer Science]
+---
 
+## 🎓 Education
+- 🎓 Full-Stack Software Engineering — RevoU *(Batch Paris)*  
+- 💻 Bachelor's Degree in Computer Science — Universitas Nusa Mandiri  
 
-## Projects
-## 📂 Group Final Project - Semesta Kata
-This project was created as part of the **Software Engineering Program at RevoU**.Explore the project here: [🔗 View ](https://drive.google.com/file/d/15QxDIf0uOh-V-vT0suLzw5R73Y_vd0vO/view?usp=sharing)
-## 📂 Final Project: RevoBank
-Part of the RevoU **Software Engineering program at RevoU**.
-See the full project here:🔗 [View](https://github.com/nuyucrutt/RevoBank)
-## 📂 Project Milestone 1: nhartikel
-The first project as **the first step to studying at RevoU**
-See the full project here:🔗 [View](https://nhartikel.my.id/)
+---
 
-## Contact
-Feel free to reach out to me through the following platforms:
-| Platform                                                                     | Username                                                |
-|------------------------------------------------------------------------------|---------------------------------------------------------|
-| ![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white) | [nuyha1221@gmail.com](mailto:nuyha1221@gmail.com) |
-| ![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white) | [nuyucrutt](https://www.instagram.com/nuyucrutt/)      |
-| ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)  | [Nurhalimah .](https://www.linkedin.com/in/nurhalimah-9304521b0/)        |
+## 🚀 Projects Showcase
 
+### 📂 Group Final Project — Semesta Kata
+> Created as part of the **Software Engineering Program at RevoU**  
+🔗 [View Project](https://drive.google.com/file/d/15QxDIf0uOh-V-vT0suLzw5R73Y_vd0vO/view?usp=sharing)
 
-<img alt="Logo" width="200px" align="left" src="NH-unscreen.gif" >
+### 📂 Final Project — RevoBank
+> Developed in the **RevoU Software Engineering Program**  
+🔗 [View Repository](https://github.com/nuyucrutt/RevoBank)
 
-<img height="90px" color="B7A3E3" alt="Thanks for visiting" width="800px" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" /> <br />
+### 📂 Project Milestone 1 — nhartikel
+> My first step in learning at **RevoU**  
+🔗 [Visit Website](https://nhartikel.my.id/)
 
+---
+
+## 📫 Contact Me
+
+| Platform | Link |
+|-----------|------|
+| 📧 **Gmail** | [nuyha1221@gmail.com](mailto:nuyha1221@gmail.com) |
+| 📸 **Instagram** | [@nuyucrutt](https://www.instagram.com/nuyucrutt/) |
+| 💼 **LinkedIn** | [Nurhalimah](https://www.linkedin.com/in/nurhalimah-9304521b0/) |
+
+---
+
+<h3 align="center">🌸 Thanks for Visiting 🌸</h3>
+
+<div align="center">
+  <img alt="Logo" width="200px" src="NH-unscreen.gif" /><br><br>
+  <img height="90px" alt="Thanks for visiting" width="800px" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+</div>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nuyucrutt&theme=tokyonight&hide_border=true" alt="GitHub Streak" /><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuyucrutt&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
