@@ -9,11 +9,12 @@
 
 <p align="center">
   <!-- Bagian 1: Hello I'm Nuy! (ungu) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&duration=2500&pause=1000&color=9C6ADE&center=false&vCenter=true&width=500&lines=Hello+I'm+Nuy!+" alt="Hello I'm Nuy!"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&duration=2600&pause=0&color=9C6ADE&center=false&vCenter=true&width=400&lines=Hello+I'm+Nuy!+" alt="Hello I'm Nuy!" />
   
-  <!-- Bagian 2: Welcome to my GitHub! (warna kedua, muncul setelah jeda) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&duration=3000&pause=500&color=8D7500&center=false&vCenter=true&width=500&startDelay=2500&lines=Welcome+to+my+GitHub!" alt="Welcome to my GitHub!"/>
+  <!-- Bagian 2: Welcome to my GitHub! (warna kedua, mulai langsung setelah teks pertama selesai) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&duration=3200&pause=0&color=8D7500&center=false&vCenter=true&width=600&startDelay=2600&lines=Welcome+to+my+GitHub!" alt="Welcome to my GitHub!" />
 </p>
+
 
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=500&color=820790&center=true&vCenter=true&width=800&lines=Junior+Full-Stack+Software+Engineer💻;Frontend+💻)
