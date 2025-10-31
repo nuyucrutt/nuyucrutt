@@ -107,8 +107,10 @@ I love creating clean, functional, and user-friendly web applications.
 
 ---
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=nuyucrutt&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
+
 <p align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=nuyucrutt&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
+  
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuyucrutt&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
