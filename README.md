@@ -16,14 +16,6 @@
 ---
 
 
-<h3 align="center">🎮 Let's Play!</h3>
-
-<p align="center">
-  <img src="https://i.gifer.com/1AMc.gif" width="300" alt="pixel game animation"/>
-</p>
-
----
-
 <h1 align="center">✨ Hajimemashite (はじめまして) ✨</h1>
 
 <p align="center">
