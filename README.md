@@ -8,12 +8,13 @@
 <div align="center">
 
 <p align="center">
-  <!-- Bagian 1: Hello I'm Nuy! (ungu) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&duration=2600&pause=0&color=9C6ADE&center=false&vCenter=true&width=400&lines=Hello+I'm+Nuy!+" alt="Hello I'm Nuy!" />
+  <!-- Hello I'm Nuy! (ungu) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&duration=2500&pause=500&color=9C6ADE&center=true&vCenter=true&width=800&lines=Hello+I'm+Nuy!" alt="Hello I'm Nuy!" />
   
-  <!-- Bagian 2: Welcome to my GitHub! (warna kedua, mulai langsung setelah teks pertama selesai) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&duration=3200&pause=0&color=8D7500&center=false&vCenter=true&width=600&startDelay=2600&lines=Welcome+to+my+GitHub!" alt="Welcome to my GitHub!" />
+  <!-- Welcome to my GitHub! (warna berbeda, muncul setelah teks pertama selesai) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&duration=2500&pause=500&color=8D7500&center=true&vCenter=true&width=800&startDelay=3000&lines=Welcome+to+my+GitHub!" alt="Welcome to my GitHub!" />
 </p>
+
 
 
 
