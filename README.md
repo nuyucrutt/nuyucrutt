@@ -55,5 +55,5 @@ Feel free to reach out to me through the following platforms:
 
 <img alt="Logo" width="200px" align="left" src="NH-unscreen.gif" >
 
-![Thanks for visiting](https://img.shields.io/badge/Thanks%20for%20visiting-B7A3E3?style=for-the-badge&labelColor=4B0082)
+<img height="90px" color="B7A3E3" alt="Thanks for visiting" width="800px" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" /> <br />
 
