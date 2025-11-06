@@ -122,8 +122,17 @@ I love creating <b style="color:#B7A3E3;">clean, functional, and user-friendly</
 </div>
 
 ---
+<h3 align="center">🎮 Play CSS Grid Garden 🌱</h3>
+<p align="center">
+  <b>Learn CSS Grid the fun way! 🌾</b><br>
+  Solve puzzles to grow your virtual garden while mastering CSS layout skills.<br>
+  👉 <a href="https://cssgridgarden.com/">Play Now</a>
+</p>
 
 <p align="center">
+  
+  <br>
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nuyucrutt&theme=radical&hide_border=true&ring=B7A3E3&fire=9C6ADE&currStreakLabel=820790" alt="GitHub Streak" /><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuyucrutt&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
