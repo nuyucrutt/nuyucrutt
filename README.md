@@ -13,6 +13,9 @@
 
 ---
 
+<!-- 🌊 Wave Divider -->
+<img src="https://raw.githubusercontent.com/nuyucrutt/nuyucrutt/main/assets/wave1.svg" width="100%" />
+
 <h1 align="center" style="color:#9C6ADE;">✨ Hajimemashite (はじめまして) ✨</h1>
 
 <p align="center" style="color:#CBB6F2;">
@@ -23,6 +26,9 @@ I love creating clean, functional, and user-friendly web applications 🌸.
 </p>
 
 ---
+
+<!-- 🌊 Wave Divider -->
+<img src="https://raw.githubusercontent.com/nuyucrutt/nuyucrutt/main/assets/wave2.svg" width="100%" />
 
 ## 🧠 Tech & Skills Overview
 
@@ -58,12 +64,18 @@ I love creating clean, functional, and user-friendly web applications 🌸.
 
 ---
 
+<!-- 🌊 Wave Divider -->
+<img src="https://raw.githubusercontent.com/nuyucrutt/nuyucrutt/main/assets/wave3.svg" width="100%" />
+
 ## 🎓 Education
 
 🎓 **Full-Stack Software Engineering** — RevoU *(Batch Paris)*  
 💻 **Bachelor's Degree in Computer Science** — Universitas Nusa Mandiri  
 
 ---
+
+<!-- 🌊 Wave Divider -->
+<img src="https://raw.githubusercontent.com/nuyucrutt/nuyucrutt/main/assets/wave4.svg" width="100%" />
 
 ## 🚀 Projects Showcase
 
@@ -81,6 +93,9 @@ A personal article-based project showcasing frontend fundamentals.
 
 ---
 
+<!-- 🌊 Wave Divider -->
+<img src="https://raw.githubusercontent.com/nuyucrutt/nuyucrutt/main/assets/wave5.svg" width="100%" />
+
 ## 📫 Contact Me
 
 <div align="center">
@@ -95,6 +110,9 @@ A personal article-based project showcasing frontend fundamentals.
 
 ---
 
+<!-- 🌊 Wave Divider -->
+<img src="https://raw.githubusercontent.com/nuyucrutt/nuyucrutt/main/assets/wave6.svg" width="100%" />
+
 <h3 align="center" style="color:#B896F2;">🌸 Thanks for Visiting 🌸</h3>
 
 <div align="center">
@@ -104,6 +122,9 @@ A personal article-based project showcasing frontend fundamentals.
 </div>
 
 ---
+
+<!-- 🌊 Wave Divider -->
+<img src="https://raw.githubusercontent.com/nuyucrutt/nuyucrutt/main/assets/wave7.svg" width="100%" />
 
 <h3 align="center" style="color:#9C6ADE;">🎮 Play CSS Grid Garden 🌱</h3>
 
