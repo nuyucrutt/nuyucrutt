@@ -11,7 +11,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=500&color=B896F2&center=true&vCenter=true&width=800&lines=Junior+Full-Stack+Software+Engineer💻;Frontend+Developer+in+Progress✨)
 </div>
 
----
+
 
 <!-- 🌊 Wave Divider -->
 <img src="https://raw.githubusercontent.com/nuyucrutt/nuyucrutt/main/assets/wave1.svg" width="100%" />
@@ -25,7 +25,6 @@ Currently studying <b>Full-Stack Software Engineering</b> at <b>RevoU (Batch Par
 I love creating clean, functional, and user-friendly web applications 🌸.
 </p>
 
----
 
 <!-- 🌊 Wave Divider -->
 <img src="https://raw.githubusercontent.com/nuyucrutt/nuyucrutt/main/assets/wave2.svg" width="100%" />
@@ -62,7 +61,7 @@ I love creating clean, functional, and user-friendly web applications 🌸.
   </tr>
 </table>
 
----
+
 
 <!-- 🌊 Wave Divider -->
 <img src="https://raw.githubusercontent.com/nuyucrutt/nuyucrutt/main/assets/wave3.svg" width="100%" />
@@ -72,7 +71,6 @@ I love creating clean, functional, and user-friendly web applications 🌸.
 🎓 **Full-Stack Software Engineering** — RevoU *(Batch Paris)*  
 💻 **Bachelor's Degree in Computer Science** — Universitas Nusa Mandiri  
 
----
 
 <!-- 🌊 Wave Divider -->
 <img src="https://raw.githubusercontent.com/nuyucrutt/nuyucrutt/main/assets/wave4.svg" width="100%" />
@@ -91,7 +89,6 @@ A modern banking simulation web app featuring responsive UI and dynamic data flo
 > My very first step in web development at **RevoU**  
 A personal article-based project showcasing frontend fundamentals.
 
----
 
 <!-- 🌊 Wave Divider -->
 <img src="https://raw.githubusercontent.com/nuyucrutt/nuyucrutt/main/assets/wave5.svg" width="100%" />
@@ -108,7 +105,6 @@ A personal article-based project showcasing frontend fundamentals.
 
 </div>
 
----
 
 <!-- 🌊 Wave Divider -->
 <img src="https://raw.githubusercontent.com/nuyucrutt/nuyucrutt/main/assets/wave6.svg" width="100%" />
@@ -121,7 +117,6 @@ A personal article-based project showcasing frontend fundamentals.
     src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg"/>
 </div>
 
----
 
 <!-- 🌊 Wave Divider -->
 <img src="https://raw.githubusercontent.com/nuyucrutt/nuyucrutt/main/assets/wave7.svg" width="100%" />
