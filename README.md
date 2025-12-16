@@ -77,6 +77,10 @@ I love creating clean, functional, and user-friendly web applications 🌸.
 
 ## 🚀 Projects Showcase
 
+### 🌐 [Product Requirement Document Implementation — Group Project](https://docs.google.com/presentation/d/1IKWP338-BlbIo8EVeERHXWYKp05Tgvzs4n8SUpesnWs/edit)
+> Created as part of the **Software Engineering Program at RevoU**  
+As a Front-End Developer in PRD Group B, I built responsive UIs with Next.js 14, TypeScript, React, and Tailwind CSS, integrated APIs, and collaborated with the team to maintain code quality.
+
 ### 🌐 [Semesta Kata — Group Final Project](https://drive.google.com/file/d/15QxDIf0uOh-V-vT0suLzw5R73Y_vd0vO/view?usp=sharing)
 > Created as part of the **Software Engineering Program at RevoU**  
 A collaborative project focusing on storytelling and interactivity.
