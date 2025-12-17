@@ -77,6 +77,10 @@ I love creating clean, functional, and user-friendly web applications 🌸.
 
 ## 🚀 Projects Showcase
 
+### 🌐 [External Partnership Projects: Virtual Internship, Revou X TiketQ](https://tiketq.com/)
+> Created as part of the **Software Engineering Program at RevoU**  
+I am currently developing a responsive search and filter interface on the front-end using Next.js, while also designing complex state management with Redux to ensure smooth data flow, integrating a real-time flight search API, and overseeing the continuous deployment process to the DigitalOcean environment.
+
 ### 🌐 [Product Requirement Document Implementation — Group Project](https://docs.google.com/presentation/d/1IKWP338-BlbIo8EVeERHXWYKp05Tgvzs4n8SUpesnWs/edit)
 > Created as part of the **Software Engineering Program at RevoU**  
 As a Front-End Developer in PRD Group B, I built responsive UIs with Next.js 14, TypeScript, React, and Tailwind CSS, integrated APIs, and collaborated with the team to maintain code quality.
