@@ -127,12 +127,14 @@ A personal article-based project showcasing frontend fundamentals.
 <!-- 🌊 Wave Divider -->
 <img src="https://raw.githubusercontent.com/nuyucrutt/nuyucrutt/main/assets/wave7.svg" width="100%" />
 
-<h3 align="center" style="color:#9C6ADE;">🎮 Play CSS Grid Garden 🌱</h3>
+<h3 align="center" style="color:#9C6ADE;">🌱 Play CSS Grid Garden 🌱</h3>
 
 <p align="center" style="color:#CBB6F2;">
   <b>Learn CSS Grid the fun way!</b> 🌾<br>
   Solve puzzles to grow your virtual garden while mastering CSS layout skills.<br><br>
-  👉 <a href="https://cssgridgarden.com/" target="_blank" style="color:#C7A9FF;"><b>Play Now</b></a>
+  <a href="https://cssgridgarden.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Play%20Now-4CAF50?style=for-the-badge&logo=css3&logoColor=white" alt="Play CSS Grid Garden" />
+  </a>
 </p>
 
 <h3 align="center" style="color:#9C6ADE;">🐸 Play Flexbox Froggy 🐸</h3>
