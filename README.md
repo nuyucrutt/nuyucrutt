@@ -119,8 +119,8 @@ A personal article-based project showcasing frontend fundamentals.
 
 <div align="center">
   <img alt="Logo" width="200px" src="NH-unscreen.gif"><br><br>
-  <img height="90px" alt="Thanks for visiting" width="800px"
-    src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg"/>
+  <img src="https://capsule-render.vercel.app/render 
+    type=rect&color=9C6ADE&height=100&section=footer&text=Thanks%20for%20visiting%20my%20profile,%20see%20you%20next%20time!&fontSize=20&fontColor=ffffff&animation=fadeIn" width="800px" />
 </div>
 
 
