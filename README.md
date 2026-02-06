@@ -135,6 +135,16 @@ A personal article-based project showcasing frontend fundamentals.
   👉 <a href="https://cssgridgarden.com/" target="_blank" style="color:#C7A9FF;"><b>Play Now</b></a>
 </p>
 
+<h3 align="center" style="color:#9C6ADE;">🐸 Play Flexbox Froggy 🐸</h3>
+
+<p align="center" style="color:#CBB6F2;">
+  <b>Master CSS Flexbox in a fun way!</b> 🐸<br>
+  Help Froggy and friends by writing CSS code to get them to their lilypads.<br><br>
+  <a href="https://flexboxfroggy.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Play%20Now-🐸-A05CCC?style=for-the-badge&logoColor=white" alt="Play Flexbox Froggy" />
+  </a>
+</p>
+
 <br>
 
 <p align="center">
