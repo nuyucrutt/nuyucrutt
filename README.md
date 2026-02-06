@@ -101,18 +101,6 @@ A personal article-based project showcasing frontend fundamentals.
 
 ## 📫 Contact Me
 
-<div align="center">
-
-| Platform | Link |
-|-----------|------|
-| 📧 **Gmail** | [nuyha1221@gmail.com](mailto:nuyha1221@gmail.com) |
-| 💼 **LinkedIn** | [Nurhalimah](https://www.linkedin.com/in/nurhalimah-9304521b0/) |
-| 📸 **Instagram** | [@nuyucrutt](https://www.instagram.com/nuyucrutt/) |
-
-</div>
-
-<h2 align="center" style="color:#9C6ADE;">📫 Let's Connect!</h2>
-
 <p align="center">
   Dapatkan informasi lebih lanjut atau diskusikan peluang kolaborasi melalui platform di bawah ini:
 </p>
