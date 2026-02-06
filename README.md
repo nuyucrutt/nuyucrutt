@@ -75,7 +75,7 @@ I love creating clean, functional, and user-friendly web applications 🌸.
 
 ## 🚀 Projects Showcase
 
-### 🌐 [External Partnership Projects: Virtual Internship, Revou X TiketQ](https://tiketq.com/](https://vi-frontend.tiketq.com/)
+### 🌐 [External Partnership Projects: Virtual Internship, Revou X TiketQ](https://tiketq.com/](https://vi-frontend.tiketq.com)
 > Created as part of the **Software Engineering Program at RevoU**  
 Developed a responsive flight search interface using Next.js and Tailwind CSS, implementing complex state management with Redux to ensure a seamless end-to-end transaction flow. This included real-time flight search integration, a comprehensive payment module featuring bank account details and transaction status validation, and a print-ready automated E-ticket generation system.
 
