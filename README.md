@@ -120,14 +120,14 @@ A personal article-based project showcasing frontend fundamentals.
 <img src="https://raw.githubusercontent.com/nuyucrutt/nuyucrutt/main/assets/wave6.svg" width="100%" />
 
 <div align="center">
-  <img alt="Logo" width="200px" src="NH-unscreen.gif"><br>
-  
-  <h2 style="color:#9C6ADE; font-family: 'Fira Code', monospace; border:none;">
-    Thanks for visiting my profile, see you next time! 🌸
-  </h2>
-</div>
 
-<img src="https://raw.githubusercontent.com/nuyucrutt/nuyucrutt/main/assets/wave7.svg" width="100%" />
+  <img alt="Logo" width="200px" src="NH-unscreen.gif"><br><br>
+
+  <img height="90px" alt="Thanks for visiting" width="800px"
+
+    src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg"/>
+
+</div>
 
 
 <!-- 🌊 Wave Divider -->
