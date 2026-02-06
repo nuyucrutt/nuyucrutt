@@ -111,6 +111,26 @@ A personal article-based project showcasing frontend fundamentals.
 
 </div>
 
+<h2 align="center" style="color:#9C6ADE;">📫 Let's Connect!</h2>
+
+<p align="center">
+  Dapatkan informasi lebih lanjut atau diskusikan peluang kolaborasi melalui platform di bawah ini:
+</p>
+
+<div align="center">
+  <a href="mailto:nuyha1221@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-9C6ADE?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/nurhalimah-9304521b0/">
+    <img src="https://img.shields.io/badge/LinkedIn-B896F2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/nuyucrutt/">
+    <img src="https://img.shields.io/badge/Instagram-9C6ADE?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
+
+<br>
+
 
 <!-- 🌊 Wave Divider -->
 <img src="https://raw.githubusercontent.com/nuyucrutt/nuyucrutt/main/assets/wave6.svg" width="100%" />
