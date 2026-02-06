@@ -119,8 +119,7 @@ A personal article-based project showcasing frontend fundamentals.
 
 <div align="center">
   <img alt="Logo" width="200px" src="NH-unscreen.gif"><br><br>
-  <img src="https://capsule-render.vercel.app/render 
-    type=rect&color=9C6ADE&height=100&section=footer&text=Thanks%20for%20visiting%20my%20profile,%20see%20you%20next%20time!&fontSize=20&fontColor=ffffff&animation=fadeIn" width="800px" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=9C6ADE&center=true&vCenter=true&width=800&lines=Thanks+for+visiting+my+profile!;See+you+next+time!+🌸" alt="Typing SVG" />
 </div>
 
 
