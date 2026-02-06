@@ -51,12 +51,10 @@ I love creating clean, functional, and user-friendly web applications 🌸.
     </td>
     <td valign="top" align="center">
       <h4>🤝 Soft Skills</h4>
-      <ul align="left">
-        <li>Teamwork & Independence</li>
-        <li>Time Management</li>
-        <li>Adaptability</li>
-        <li>Creativity</li>
-      </ul>
+      <img src="https://img.shields.io/badge/Teamwork-361E66?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Time%20Management-2B1852?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Adaptability-21123E?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Creativity-170C2A?style=for-the-badge"/>
     </td>
   </tr>
 </table>
