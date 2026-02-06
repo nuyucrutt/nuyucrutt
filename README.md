@@ -117,10 +117,17 @@ A personal article-based project showcasing frontend fundamentals.
 
 <h3 align="center" style="color:#B896F2;">🌸 Thanks for Visiting 🌸</h3>
 
+<img src="https://raw.githubusercontent.com/nuyucrutt/nuyucrutt/main/assets/wave6.svg" width="100%" />
+
 <div align="center">
-  <img alt="Logo" width="200px" src="NH-unscreen.gif"><br><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=9C6ADE&center=true&vCenter=true&width=800&lines=Thanks+for+visiting+my+profile!;See+you+next+time!+🌸" alt="Typing SVG" />
+  <img alt="Logo" width="200px" src="NH-unscreen.gif"><br>
+  
+  <h2 style="color:#9C6ADE; font-family: 'Fira Code', monospace; border:none;">
+    Thanks for visiting my profile, see you next time! 🌸
+  </h2>
 </div>
+
+<img src="https://raw.githubusercontent.com/nuyucrutt/nuyucrutt/main/assets/wave7.svg" width="100%" />
 
 
 <!-- 🌊 Wave Divider -->
