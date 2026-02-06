@@ -117,16 +117,10 @@ A personal article-based project showcasing frontend fundamentals.
 
 <h3 align="center" style="color:#B896F2;">🌸 Thanks for Visiting 🌸</h3>
 
-<img src="https://raw.githubusercontent.com/nuyucrutt/nuyucrutt/main/assets/wave6.svg" width="100%" />
-
 <div align="center">
-
   <img alt="Logo" width="200px" src="NH-unscreen.gif"><br><br>
-
   <img height="90px" alt="Thanks for visiting" width="800px"
-
     src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg"/>
-
 </div>
 
 
