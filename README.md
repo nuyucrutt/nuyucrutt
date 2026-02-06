@@ -133,7 +133,7 @@ A personal article-based project showcasing frontend fundamentals.
   <b>Learn CSS Grid the fun way!</b> 🌾<br>
   Solve puzzles to grow your virtual garden while mastering CSS layout skills.<br><br>
   <a href="https://cssgridgarden.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Play%20Now-4CAF50?style=for-the-badge&logo=css3&logoColor=white" alt="Play CSS Grid Garden" />
+    <img src="https://img.shields.io/badge/Play%20Now-🌾-A05CCC?style=for-the-badge&logoColor=white" alt="Play CSS Grid Garden" />
   </a>
 </p>
 
