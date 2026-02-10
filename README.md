@@ -1,4 +1,5 @@
-<div style="background: linear-gradient(45deg, rgba(255, 205, 201, 0.5), rgba(253, 172, 172, 0.5)); padding: 20px; border-radius: 10px;">
+<div style="background: linear-gradient(135deg, #FEEAC9, #FD7979); padding: 50px 20px; font-family: 'Segoe UI', sans-serif; display: flex; flex-direction: column; align-items: center; gap: 20px;">
+<div style="background: rgba(255, 255, 255, 0.7); border-radius: 40px; padding: 40px; width: 100%; max-width: 600px; text-align: center; box-shadow: 0 10px 30px rgba(0,0,0,0.05); border: 1px solid rgba(255,255,255,0.4);">
 <div align="center">
   <img alt="computer" width="1000px" src="Untitled design.gif">
 </div>
