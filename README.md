@@ -1,3 +1,4 @@
+<div style="background: linear-gradient(45deg, rgba(255, 205, 201, 0.5), rgba(253, 172, 172, 0.5)); padding: 20px; border-radius: 10px;">
 <div align="center">
   <img alt="computer" width="1000px" src="Untitled design.gif">
 </div>
