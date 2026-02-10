@@ -3,6 +3,11 @@
 </div>
 
 <br>
+> [!NOTE]
+> Ini akan muncul dengan latar belakang biru.
+
+> [!IMPORTANT]
+> Ini akan muncul dengan latar belakang ungu.
 
 <!-- Animated Header -->
 <div align="center">
